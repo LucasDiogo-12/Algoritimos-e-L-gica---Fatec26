@@ -1,1 +1,1 @@
-# Algoritimos-e-L-gica---Fatec26
+# Algoritimos-e-Lógica---Fatec26
